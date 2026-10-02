@@ -1,4 +1,4 @@
-[# morelllin.kitek-pg.ru/api/marketplace/items
+# morelllin.kitek-pg.ru/api/marketplace/items
 
 # Лабораторная: Деплой API
 
